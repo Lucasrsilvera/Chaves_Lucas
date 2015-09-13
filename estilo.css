@@ -1,0 +1,77 @@
+body
+{
+	font-family: Tahoma;
+	margin: 30px 20px 30px 20px;
+}
+
+h1
+{
+	font-size: 50px;
+	font-weight: bold;
+    background-color: blue;
+    color: white;
+}
+
+h2
+{
+	font-size: 35px;
+	font-style: italic;
+    background-color: blue;
+    color: white;
+}
+
+p
+{
+	text-align: justify;
+	font-size: 20px;
+}
+
+.turma
+{
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+	font-size: 15px;
+}
+
+.madruga
+{
+	color: blue;
+}
+
+.chiquinha
+{
+	color: blue;
+}
+
+.quico
+{
+	color: blue;
+}
+
+.chiquinha2
+{
+	border-width: thick;
+
+    border-style: dotted;
+
+    border-color: blue;
+}
+
+.madruga2
+{
+	border-width: thick;
+
+    border-style: dotted;
+
+    border-color: blue;
+}
+
+.quico2
+{
+	border-width: thick;
+
+    border-style: dotted;
+
+    border-color: blue;
+}
